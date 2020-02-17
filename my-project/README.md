@@ -2,4 +2,4 @@
 
 A quick description of your strapi application
 
-THIS IS A TEST OF THE GITHUB WEBHOOK
+THIS IS ANOTHER TEST OF THE GITHUB WEBHOOK
